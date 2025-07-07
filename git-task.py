@@ -1,2 +1,2 @@
-mkdir git-task
-cd git-task
+echo https://github.com/NNdlovu33/git-task > git-task.txt
+
